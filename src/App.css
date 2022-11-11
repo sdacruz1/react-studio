@@ -1,7 +1,11 @@
 /* Add styling for your page here */
 
 .App {
-
+    background-color: #c4e8ee;
+    color: rgb(96, 77, 103);
+    padding: 40px;
+    font-family: Helvetica;
+    text-align: center;
 }
 
 .BakeryItem {
